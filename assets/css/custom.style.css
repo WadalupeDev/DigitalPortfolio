@@ -1,7 +1,21 @@
 #home{
-    background-image: url(../img/Portafolio/LuupRun.webp);
+    background-image: url(../img/Portafolio/logojganim.webp);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: 70%;
+    background-position: center;
+}
+
+.portfolio-logo{
+    border-radius: 5px;
+    height: 15vh;
+    position: absolute;
+    top:-12px;
+    left: 60px
+}
+
+.bg-badge-white{
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    color: #FFF;
 }
